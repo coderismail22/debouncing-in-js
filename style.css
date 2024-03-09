@@ -1,0 +1,13 @@
+#btn{
+    background: #000;
+    width: 200px;
+    height: 75px;
+    padding: 5px;
+    color: white;
+}
+
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
